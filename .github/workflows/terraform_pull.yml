@@ -1,4 +1,4 @@
-name: "Terraform pull"
+name: Terraform pull
 
 on:
   pull_request:
